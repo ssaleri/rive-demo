@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoRiveModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.rive.ExpoRiveModule"]
+  }
+}
